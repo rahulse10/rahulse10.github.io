@@ -7,7 +7,7 @@ Here are some of my notable projects that showcase my skills and expertise:
 
 ### Project 1: [TEP4221 - Python for Sustainability Analysis](https://github.com/rahulse10/Python_for_Sustainibility_Analysis)
 As a part of the course, we identified nations that need to focus on their CO2 emissions using Data Science workflow. /
-Python librarties used - PAndas, Geopandas, Matplotlib, numpy, plotly
+Python librarties used - Pandas, Geopandas, Matplotlib, numpy, plotly
 
 ### Project 2: [Introduction to Geographical Information Systems (GIS)](https://github.com/rahulse10/Introduction_to_GIS))
 This project is a collection of maps prepared for the course Introduction to GIS.
