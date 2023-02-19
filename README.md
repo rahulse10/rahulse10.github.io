@@ -17,6 +17,8 @@ ArcGIS Pro, QGIS and GeoDA were used to complete the assignments.
 
 ### Project 4: [GIS Tools for Climate Change Studies](https://github.com/rahulse10/GIS_for_Climate_Change_Studies)
 
+### Project 5: [Automating GIS Processes](https://github.com/rahulse10/Automating-GIS-Processes)
+
 ## Skills
 - ArcGIS Pro
 - QGIS
