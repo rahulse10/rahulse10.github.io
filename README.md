@@ -19,9 +19,9 @@ The course focused on network tools and modelling in GIS and use of accessibilit
 
 ### Project 4: [GIS Tools for Climate Change Studies](https://github.com/rahulse10/GIS_for_Climate_Change_Studies)
 
-### Project 4: [Geo-Python](https://github.com/rahulse10/Geo-Python)
+### Project 5: [Geo-Python](https://github.com/rahulse10/Geo-Python)
 
-### Project 5: [Automating GIS Processes](https://github.com/rahulse10/Automating-GIS-Processes)
+### Project 6: [Automating GIS Processes](https://github.com/rahulse10/Automating-GIS-Processes)
 
 ## Skills
 - ArcGIS Pro
