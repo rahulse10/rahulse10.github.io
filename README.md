@@ -14,6 +14,8 @@ This project is a collection of maps prepared for the course Introduction to GIS
 ArcGIS Pro, QGIS and GeoDA were used to complete the assignments.
 
 ### Project 3: [GIS Tools for Land Use and Transport Planning](https://github.com/rahulse10/GIS_for_Transport_Planning/blob/main/GIS_Work.pdf)
+This project is a collection of maps and tabgles prepared as a part of the course GIS for Land USe and Transport Planning.
+The course focused on network tools and modelling in GIS and use of accessibility maps for planning mobility in European cities.
 
 ### Project 4: [GIS Tools for Climate Change Studies](https://github.com/rahulse10/GIS_for_Climate_Change_Studies)
 
